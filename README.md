@@ -1,1 +1,4 @@
-# UAS_SDA
+# UAS SDA
+- Bubble Sort
+- Selection Sort
+- Binary Search 
